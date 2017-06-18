@@ -1,0 +1,33 @@
+/*DINPro*/
+@font-face{
+	font-family: "DINPro";
+	src:url(../fonts/DINPro.otf),
+		url(../fonts/DINPro.ttf),
+		url(../fonts/DINPro.woff),
+		url(../fonts/DINPro.woff2),
+		url(../fonts/DINPro.eot);
+}
+@font-face{
+	font-family: "DINPro-Bold";
+	src:url(../fonts/DINPro-Bold.otf),
+		url(../fonts/DINPro-Bold.ttf),
+		url(../fonts/DINPro-Bold.woff),
+		url(../fonts/DINPro-Bold.woff2),
+		url(../fonts/DINPro-Bold.eot);
+}
+@font-face{
+	font-family: "DINPro-Light";
+	src:url(../fonts/DINPro-Light.otf),
+		url(../fonts/DINPro-Light.ttf),
+		url(../fonts/DINPro-Light.woff),
+		url(../fonts/DINPro-Light.woff2),
+		url(../fonts/DINPro-Light.eot);
+}
+@font-face{
+	font-family: "DINPro-Medium";
+	src:url(../fonts/DINPro-Medium.otf),
+		url(../fonts/DINPro-Medium.ttf),
+		url(../fonts/DINPro-Medium.woff),
+		url(../fonts/DINPro-Medium.woff2),
+		url(../fonts/DINPro-Medium.eot);
+}
